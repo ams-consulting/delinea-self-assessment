@@ -2,11 +2,11 @@
 Delinea Self Assessment script to use with Server Suite deployment in Active Directory. 
 
 ### Table of Contents
-1. Description
-2. Diagnostics
-3. License
-4. Setup
-5. Contact
+1. [Description](#description)
+2. [Diagnostics](#diagnostics)
+3. [License](#license)
+4. [Setup](#setup)
+5. [Contact](#contact)
 
 ## Description
 This PowerShell script exports and analyses data on Delinea Server Suite deployment.
@@ -77,7 +77,7 @@ This script runs the diagnostics describe here after.
     * Count Command Rights
 
 ## License
-This script is distributed under MIT license (see LICENSE file), and uses Delinea PowerShell SDK provided with Server Suite, which requires a valid Server Suite license from Delinea.
+This script is distributed under MIT license (see [LICENSE](LICENSE) file), and uses Delinea PowerShell SDK provided with Server Suite, which requires a valid Server Suite license from Delinea.
 
 ## Setup
 Follow the steps below to run this script in your environment:
